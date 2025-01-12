@@ -1,0 +1,23 @@
+{
+  "name": "koa-api",
+  "version": "1.0.0",
+  "description": "koa-api",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "koa",
+    "ts",
+    "mysql"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/koa": "^2.15.0",
+    "@types/koa-router": "^7.4.8",
+    "koa": "^2.15.3",
+    "koa-router": "^13.0.1"
+  }
+}
